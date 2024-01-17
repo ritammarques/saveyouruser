@@ -19,3 +19,4 @@ function game(){
 
 document.getElementById("game_tab").addEventListener("click", game);
 document.getElementById("plugin_tab").addEventListener("click", plugin);
+document.getElementById("pluggin_button").addEventListener("click", plugin);
