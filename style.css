@@ -339,6 +339,3 @@ footer a{
 footer a:hover{
     color:var(--red);
 }
-footer a img{
-    margin: 0 8px;
-}
